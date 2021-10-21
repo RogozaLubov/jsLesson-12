@@ -1,0 +1,33 @@
+@import url('reset.css');
+.load{
+   transform: rotate(45deg);
+   background-color: yellow;
+   font-size: 100px;
+   border-radius: 50px;
+   width: 400px;
+   align-items: center;
+   display: flex;
+   justify-content:center;
+   margin-top: 200px;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+.container{
+    min-height: 100vh;
+    background-size: cover;
+    background-image: url(/img/oblaka.jpg);
+    background-position: center;
+}
+iframe{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:590px;
+    height:420px;
+    margin-left: auto;
+    margin-right: auto;
+   
+  
+}
